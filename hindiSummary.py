@@ -108,29 +108,3 @@ def generate_summary_textrank(clean_sentences,best_sentences):
 
 
 
-
-
-
-
-
-# Hindi Summary
-
-# def preprocess_tokenize(text):
-#     text = str(text)
-#     text = re.sub(r'(\d+)', r'', text)
-#
-#     text = text.replace('\n', '')
-#     text = text.replace('\r', '')
-#     text = text.replace('\t', '')
-#     text = text.replace('\u200d', '')
-#     text = re.sub("(__+)", ' ', str(text)).lower()
-#     text = re.sub("(--+)", ' ', str(text)).lower()
-#     text = re.sub("(~~+)", ' ', str(text)).lower()
-#     text = re.sub("(\+\++)", ' ', str(text)).lower()
-#     text = re.sub("(\.\.+)", ' ', str(text)).lower()
-#
-#     text = re.sub(r"[<>()|&©@#ø\[\]\'\",;:?.~*!]", ' ', str(text)).lower()  # remove <>()|&©ø"',;?~*!
-#     text = re.sub("([a-zA-Z])", ' ', str(text)).lower()
-#     text = re.sub("(\s+)", ' ', str(text)).lower()
-#
-#     return text
