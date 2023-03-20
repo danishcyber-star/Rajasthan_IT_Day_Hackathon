@@ -40,15 +40,25 @@ Heroku Deployment here
 
 ## Web Inerface :
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/home.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/header.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/main/images/experiment.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_pdf_text.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/predict.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_text.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/logs.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/parameters.png)
 
-![alt text](https://github.com/danishcyber-star/-ml_intern_task_02/blob/master/images/artifacts.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/summary_sample.png)
+
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/Listen_audio.png)
+
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_successful_upload.png)
+
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_home.png)
+
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_download_extracted_file.png)
+
+
 
 ## Libraries used :
     1) Pandas, Numpy
