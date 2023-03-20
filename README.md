@@ -8,13 +8,13 @@ This helps to learn only relevant info and improves Efficiency and Saves Time.
 
 ## Input : 
 
-# Language: English and Hindi
-# input type: .PDF, .TXT File , Manual input or Speech Input
+## Language: English and Hindi
+## input type: .PDF, .TXT File , Manual input or Speech Input
 
 ## Output :
-# 1. It contains the language(hindi/english/urdu,etc.) 
-# 2. The Category of domain/category of input news/passage(like:- Sports, Politics, Education,etc.). It works for around 12 categories.
-# 3. The Summary of the input text(for Hindi as well as English).
+## 1. It contains the language(hindi/english/urdu,etc.) 
+## 2. The Category of domain/category of input news/passage(like:- Sports, Politics, Education,etc.). It works for around 12 categories.
+## 3. The Summary of the input text(for Hindi as well as English).
 
 ## Approach :
 Categorization:
@@ -22,9 +22,9 @@ Categorization:
 # 2. API(for fast service)
 
 Summarization:
-# 1. BART(Number of words in summary can be choose as parameter, number_of_beams(candidate summary))
-# 2. TextRank(number of sentences as parameter)
-# 3. API(for fast service)
+## 1. BART(Number of words in summary can be choose as parameter, number_of_beams(candidate summary))
+## 2. TextRank(number of sentences as parameter)
+## 3. API(for fast service)
 
 Hindi Summarization uses:
 Text Rank with Bag-Of-Words(BOW)
