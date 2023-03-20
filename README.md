@@ -42,21 +42,21 @@ Heroku Deployment here
 
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/header.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/input_pdf_text.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/input_pdf_text.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/input_text.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/input_text.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/parameters.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/parameters.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/summary_sample.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/summary_sample.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/Listen_audio.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/Listen_audio.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_successful_upload.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_successful_upload.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_home.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_home.png)
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_download_extracted_file.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/pdf_splitter_download_extracted_file.png)
 
 
 
