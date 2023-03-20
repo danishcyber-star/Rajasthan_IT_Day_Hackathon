@@ -16,8 +16,8 @@ This helps to learn only relevant info and improves Efficiency and Saves Time.
 ### 2. The Category of domain/category of input news/passage(like:- Sports, Politics, Education,etc.). It works for around 12 categories.
 ### 3. The Summary of the input text(for Hindi as well as English).
 
-## Approach :
-Categorization:
+# Approach :
+## Categorization:
 ### 1. Machine Learning(Random Forest)
 ### 2. API(for fast service)
 
