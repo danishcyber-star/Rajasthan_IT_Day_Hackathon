@@ -6,15 +6,15 @@ It's an AI based Web Application with Google Authentication Specially build for 
 Using this application user can selectively read the topics or news of their interest, also it gives user the most valuable information from large text paragraph or news.
 This helps to learn only relevant info and improves Efficiency and Saves Time.
 
-## Input : 
+# Input : 
 
-# Language: English and Hindi
-# input type: .PDF, .TXT File , Manual input or Speech Input
+## Language: English and Hindi
+## input type: .PDF, .TXT File , Manual input or Speech Input
 
 ## Output :
-#1. It contains the language(hindi/english/urdu,etc.) 
-#2. The Category of domain/category of input news/passage(like:- Sports, Politics, Education,etc.). It works for around 12 categories.
-#3. The Summary of the input text(for Hindi as well as English).
+##1. It contains the language(hindi/english/urdu,etc.) 
+##2. The Category of domain/category of input news/passage(like:- Sports, Politics, Education,etc.). It works for around 12 categories.
+##3. The Summary of the input text(for Hindi as well as English).
 
 ## Approach :
 Categorization:
