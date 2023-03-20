@@ -18,8 +18,8 @@ This helps to learn only relevant info and improves Efficiency and Saves Time.
 
 ## Approach :
 Categorization:
-###1. Machine Learning(Random Forest)
-###2. API(for fast service)
+### 1. Machine Learning(Random Forest)
+### 2. API(for fast service)
 
 Summarization:
 ### 1. BART(Number of words in summary can be choose as parameter, number_of_beams(candidate summary))
