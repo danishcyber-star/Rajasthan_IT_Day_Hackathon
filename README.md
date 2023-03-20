@@ -40,6 +40,10 @@ Heroku Deployment here
 
 ## Web Inerface :
 
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/login.png)
+
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/google_auth.png)
+
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/header.png)
 
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_pdf_txt.png)
