@@ -8,7 +8,7 @@ This helps to learn only relevant info and improves Efficiency and Saves Time.
 
 ## Input : 
 
-## Language: English and Hindi
+### Language: English and Hindi
 ## input type: .PDF, .TXT File , Manual input or Speech Input
 
 ## Output :
