@@ -2,7 +2,7 @@
 
 ## Problem Statement :
 The goal of this project to assist student or any professional in learning important/selected contents of large tect files.
-It's an AI based Web Application Specially build for improving user Learning Experience.
+It's an AI based Web Application with Google Authentication Specially build for improving user Learning Experience.
 Using this application user can selectively read the topics or news of their interest, also it gives user the most valuable information from large text paragraph or news.
 This helps to learn only relevant info and improves Efficiency and Saves Time.
 
