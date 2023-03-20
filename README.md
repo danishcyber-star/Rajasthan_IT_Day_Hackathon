@@ -54,9 +54,10 @@ Heroku Deployment here
 
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_successful_upload.png)
 
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_download_extracted_file.png)
+
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_home.png)
 
-![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/pdf_splitter_download_extracted_file.png)
 
 
 
