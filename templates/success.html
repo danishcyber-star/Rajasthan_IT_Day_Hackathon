@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>success</title>
+</head>
+<body style="background-color: #f5f5f5; padding: 20px; font-family: Arial, sans-serif;">
+  <div style="max-width: 500px; margin: 0 auto; background-color: #fff; border: 1px solid #ddd; padding: 20px; text-align: center;">
+    <h1 style="font-size: 32px; color: #444;">PDF SPLITTER</h1>
+    <hr style="border: 1px solid #ddd;">
+    <br>
+    <p style="font-size: 18px; color: #666;">File uploaded successfully</p>
+    <p style="font-size: 18px; color: #666;">File Name: {{name}}</p>
+    <p style="font-size: 18px; color: #666;">Do you want to extract pages from {{start}} to {{end}} ?</p>
+    <br>
+    <form method="get" action="/splitpdf/convert">
+      <input type="submit" value="Extract!" style="background-color: #4CAF50; color: #fff; border: none; padding: 10px 20px; font-size: 18px; border-radius: 5px; cursor: pointer;">
+    </form>
+  </div>
+</body>
+
+
+</html>
