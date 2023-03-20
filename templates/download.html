@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PDF Splitter - Download Extracted File</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			background-color: #f7f7f7;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			margin: 0;
+			padding: 20px;
+		}
+
+		.container {
+			max-width: 600px;
+			margin: 0 auto;
+			background-color: #fff;
+			padding: 30px;
+			box-shadow: 0 0 10px rgba(0,0,0,0.1);
+		}
+
+		h1 {
+			font-size: 32px;
+			margin-top: 0;
+			text-align: center;
+		}
+
+		form {
+			text-align: center;
+			margin-top: 30px;
+		}
+
+		p {
+			margin-bottom: 20px;
+			font-size: 20px;
+		}
+
+		input[type="submit"] {
+			background-image: linear-gradient(to bottom, #ff9a9e, #ff6b6b);
+			border: none;
+			color: #fff;
+			padding: 10px 20px;
+			border-radius: 5px;
+			box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+			transition: all 0.3s ease;
+		}
+
+		input[type="submit"]:hover {
+			background-position: 0 50px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>PDF Splitter - Download Extracted File</h1>
+		<form action="/splitpdf/download" method="get">
+			<p>Successfully extracted!</p>
+			<p>Download your extracted file here:</p>
+			<input type="submit" value="Download">
+		</form>
+	</div>
+</body>
+</html>
