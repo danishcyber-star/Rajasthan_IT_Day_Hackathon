@@ -64,8 +64,8 @@ Heroku Deployment here
     1) Pandas, Numpy
     2) Transformer, Speech Recognition, gtts, google_auth_oauthlib
     3) Fpdf, Torch
-    4) Scikit-Learn
-    5) Flask
+    4) Scikit-Learn ,Count Vectorizer, PyPDF2, FPDF
+    5) Flask, langdetect
     6) Python
     7) HTML, CSS, JQuery
 
