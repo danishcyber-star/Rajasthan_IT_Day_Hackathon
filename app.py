@@ -1,4 +1,4 @@
-# import config
+import config
 import flask
 from flask import Flask, request, render_template, url_for, send_file , Response, jsonify
 import fitz
