@@ -1,4 +1,3 @@
-import config
 import flask
 from flask import Flask, request, render_template, url_for, send_file , Response, jsonify
 import fitz
@@ -107,8 +106,7 @@ def logout():
 
 @app.route("/")
 def index():
-    return '''<h1>Sign In</h1>
-        <a href='/login'><button>Google Authentication</button></a>'''
+    return render_template('login.html')
 
 
 
@@ -220,9 +218,6 @@ def predict():
             summary_textrank = hindiSummary.generate_summary_textrank(clean_sentences, best_sentences)
             output = summary_textrank
                 # pass
-            # else:
-            #     output = "Wrong Summarization Model: Try some other Models"
-            #     app.logger.error('Requested Summarization Model not Exist: , ❌ERROR❌')
         else:
             model="Alien"
             output = "Language not supported"
@@ -275,9 +270,6 @@ def speak():
     return send_file(io.BytesIO(audio_data), mimetype="audio/mpeg")
 
 
-class HindiPDF(FPDF, HTMLMixin):
-    pass
-
 
 @app.route('/download', methods=['POST'])
 def download_summary():
@@ -288,13 +280,6 @@ def download_summary():
         response.headers['Content-Disposition'] = 'attachment; filename=summary.txt'
         app.logger.info('Requested for .txt file download , 🎉🎉🎉Done')
     elif format == 'pdf':
-        # pdf_report = pdf_repo.PDFReport(summary)
-        # pdf_report.build_report()
-        # data = BytesIO(pdf_report.output(dest='S').encode('latin1'))
-        # mimetype = 'application/pdf'
-        # extension = 'pdf'
-
-
         pdf_report = pdf_repo.PDFReport(summary)
         pdf_report.build_report()
         data = io.BytesIO(pdf_report.output(dest='S').encode('latin1'))
@@ -302,22 +287,7 @@ def download_summary():
         extension = 'pdf'
         app.logger.info('Requested for .pdf file download, Done')
 
-        # data = summary
-        # pdf = HindiPDF()
-        # pdf.add_page()
-        # pdf.set_font('Arial', 'B', 16)
-        # pdf.cell(40, 10, 'सारांश रिपोर्ट / Summary Report')
-        # pdf.ln(20)
-        # pdf.set_font('')
-        # html = f'<p>{data}</p>'
-        # pdf.write_html(html)
-        # pdf.output('report.pdf', 'F')
-
-        # # Usage example
-        # data = 'यहाँ के प्रमुख त्योहार, जैसे होली, दशहरा, दीवाली, ईद आदि मनाये जाते हैं।'
-        # generate_pdf_report(data)
-
-        # app.logger.info('Requested for .pdf file download , 🎉🎉🎉Done')
+        app.logger.info('Requested for .pdf file download , 🎉🎉🎉Done')
     else:
         return 'Invalid format', 400
         app.logger.error('Invalid format : Error 400')
@@ -374,5 +344,4 @@ def speldetect():
 
 
 if __name__ == '__main__':
-
     app.run(debug=True)
