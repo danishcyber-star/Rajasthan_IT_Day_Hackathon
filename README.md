@@ -42,7 +42,7 @@ Heroku Deployment here
 
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/header.png)
 
-![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_pdf_text.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_pdf_txt.png)
 
 ![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/blob/master/images/input_text.png)
 
