@@ -40,7 +40,7 @@ Heroku Deployment here
 
 ## Web Inerface :
 
-![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/header.png)
+![alt text](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/header.png)
 
 ![alt text]([/master/images](https://github.com/danishcyber-star/Rajasthan_IT_Day_Hackathon/tree/master/images/input_pdf_text.png)
 
