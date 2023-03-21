@@ -3,8 +3,8 @@
 ## Problem Statement :
 The goal of this project to assist student or any professional in learning important/selected contents of large tect files.
 It's an AI based Web Application with Google Authentication Specially build for improving user Learning Experience.
-Using this application user can selectively read the topics or news of their interest, also it gives user the most valuable information from large text paragraph or news.
-This helps to learn only relevant info and improves Efficiency and Saves Time.
+Improve Learning Experience of User at Various Education Platforms. Student can specifically select the category of topic they want to Study. Also, It extracts the most valuable info from Large text files/Big Passages. This Help user to learn more concepts  in small time Interval. Hence, Improve their Efficiency. This application can also be integrated with News Application.
+This not only helps to learn relevant info and improves Efficiency and Saves Time, but also improves Focus of student.
 
 ## Input : 
 
