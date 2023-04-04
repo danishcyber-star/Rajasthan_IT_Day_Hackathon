@@ -1,4 +1,4 @@
--e git+https://github.com/MVIG-SJTU/AlphaPose.git@038435e060a4e1194d9a6e8fef51b3730c5a21f0#egg=alphapose
+
 beautifulsoup4
 certifi==2020.11.8
 chardet==3.0.4
