@@ -22,7 +22,6 @@ MarkupSafe==1.1.1
 munkres==1.1.4
 natsort==7.0.1
 nltk
-numpy==1.19.4
 packaging==20.5
 Pillow==8.0.1
 protobuf==3.14.0
