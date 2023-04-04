@@ -60,3 +60,4 @@ google-auth-oauthlib
 cachecontrol
 google-api-python-client
 numpy==1.19.4
+numpy
